@@ -37,9 +37,8 @@ To run the website locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1](https://github.com/Manvendra2000/three-js/assets/53358773/11547c7d-37ee-416c-9363-4ec042e367a5)
 
-![Screenshot 2](path_to_screenshot_2.png)
 
 ## Contributing
 
