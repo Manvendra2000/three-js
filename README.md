@@ -8,7 +8,7 @@ This is a 3D portfolio website created using Three.js. It showcases my projects 
 
 ## Demo
 
-You can check out the live demo of the website [here](three-js-rosy-sigma.vercel.app).
+You can check out the live demo of the website [here](https://three-kz9cdsl0g-manvendra2000.vercel.app/).
 
 ## Features
 
